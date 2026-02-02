@@ -25,3 +25,6 @@ Secondary Causes: Following distraction, "Failure to Yield Right-of-Way" and "Fo
 
 Conclusion
 The data clearly shows that the most effective way to reduce collisions in NYC is to address driver focus and behavior. This project underscores that most "accidents" are actually preventable through improved driver attention and stricter adherence to traffic laws.
+
+https://public.tableau.com/app/profile/sandip.panchal/viz/NYCTrafficSafetyAnalysis-VisionZero/Dashboard1
+<img width="1497" height="1206" alt="image" src="https://github.com/user-attachments/assets/bbd7a15e-e01d-45d9-8e4e-167574f9cf5e" />
